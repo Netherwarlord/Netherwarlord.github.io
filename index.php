@@ -1,9 +1,0 @@
-<html>
-  <head>
-    <title>Place holder</title>
-  </head>
-  <body>
-    <h1>The purpose of this page is not yet decided.</h1>
-    <p>Once it's purpose is decided is when i will take action to make it the best that it can be.</p>
-  </body>
-</html>
